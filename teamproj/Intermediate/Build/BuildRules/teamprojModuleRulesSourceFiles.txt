@@ -1,0 +1,3 @@
+D:\Unreal Project\teamproj\Source\teamproj\teamproj.Build.cs
+D:\Unreal Project\teamproj\Source\teamproj.Target.cs
+D:\Unreal Project\teamproj\Source\teamprojEditor.Target.cs

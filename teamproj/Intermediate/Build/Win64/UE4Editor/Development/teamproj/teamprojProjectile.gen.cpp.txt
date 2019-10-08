@@ -1,0 +1,5 @@
+D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\Definitions.teamproj.h
+D:\Unreal Engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal Project\teamproj\Source\teamproj/teamprojProjectile.h
+d:\unreal project\teamproj\intermediate\build\win64\ue4editor\inc\teamproj\teamprojProjectile.generated.h

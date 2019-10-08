@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\teamproj.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B9DC85DC-A7F4-48D8-83CB-0E78AD94819D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\teamproj.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\teamprojEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CC977CE5-6547-413F-86F5-8BF67F5C5D94}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\teamproj">
+      <UniqueIdentifier>{1808B698-52F9-4153-AE84-C093B37B585F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\teamproj\teamproj.Build.cs">
+      <Filter>Source\teamproj</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\teamproj\teamproj.cpp">
+      <Filter>Source\teamproj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\teamproj\teamproj.h">
+      <Filter>Source\teamproj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\teamproj\teamprojCharacter.cpp">
+      <Filter>Source\teamproj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\teamproj\teamprojCharacter.h">
+      <Filter>Source\teamproj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\teamproj\teamprojGameMode.cpp">
+      <Filter>Source\teamproj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\teamproj\teamprojGameMode.h">
+      <Filter>Source\teamproj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\teamproj\teamprojHUD.cpp">
+      <Filter>Source\teamproj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\teamproj\teamprojHUD.h">
+      <Filter>Source\teamproj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\teamproj\teamprojProjectile.cpp">
+      <Filter>Source\teamproj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\teamproj\teamprojProjectile.h">
+      <Filter>Source\teamproj</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

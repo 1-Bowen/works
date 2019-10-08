@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-teamproj.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\teamprojEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamproj.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamprojCharacter.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamprojGameMode.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamprojHUD.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamprojProjectile.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamproj.init.gen.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamprojCharacter.gen.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamprojGameMode.gen.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamprojHUD.gen.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\teamprojProjectile.gen.cpp.obj"
+"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\Default.rc2.res"
+/OUT:"D:\Unreal Project\teamproj\Intermediate\Build\Win64\UE4Editor\Development\teamproj\UE4Editor-teamproj.lib"
+/INCLUDE:IMPLEMENT_MODULE_teamproj
